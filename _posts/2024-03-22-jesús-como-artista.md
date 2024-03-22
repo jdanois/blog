@@ -9,9 +9,9 @@ tags: [Reflexión Bíblica]
 readtime: true
 published: true
 ---
-El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante como Van Gogh que en algún momento fuera pastor protestante se expresa en esta carta acerca de Jesús.
+El siguiente extracto es de una carta[^1] de Vincent Van Gogh[^2] a Emile Bernard, el 26 de junio de 1888. Es interesante como Van Gogh que en algún momento fuera pastor protestante se expresa en esta carta acerca de Jesús. El dice:
 
-Solo entre todos los filósofos y sabios Jesús afirmó como base de su enseñanza una vida eterna, la infinidad del tiempo y la imperiosa necesidad de la verdad y de la dedicación completa. Él vivió decididamente como artista. Más grande que todos los artistas, él despreció el mármol, la arcilla y la paleta, ya que obraba en la carne viva. Es decir, este artista increíble, que no puede ser comprendido por el grosero instrumento que es nuestra mente moderna, nerviosa, desordenada, no hizo estatuas o cuadros o aun libros – lo dice él mismo – sino que creó hombres reales, vivos, inmortales.
+"Solo entre todos los filósofos y sabios Jesús afirmó como base de su enseñanza una vida eterna, la infinidad del tiempo y la imperiosa necesidad de la verdad y de la dedicación completa. Él vivió decididamente como artista. Más grande que todos los artistas, él despreció el mármol, la arcilla y la paleta, ya que obraba en la carne viva. Es decir, este artista increíble, que no puede ser comprendido por el grosero instrumento que es nuestra mente moderna, nerviosa, desordenada, no hizo estatuas o cuadros o aun libros – lo dice él mismo – sino que creó hombres reales, vivos, inmortales.
 
 ![img](https://www.plough.com/-/media/images/plough/article/2017/languages/van-gogh-es/vangoghwheatfieldsembed.jpg?h=512&w=600&la=es)
 
@@ -19,7 +19,7 @@ Este gran artista (Jesús), pues, no escribió tampoco un solo libro. Sin duda l
 
 Estas palabras – que por ser él tan grande no consideró siquiera necesario poner por escrito – marcan la cumbre más alta jamás alcanzada por el arte, y esta elevación pura les da poder creador, supremo poder creador.
 
-Tales consideraciones nos llevan muy lejos, de hecho, nos llevan más allá del arte. Nos permiten vislumbrar el arte de moldear la vida y ser inmortales mientras todavía vivimos.
+Tales consideraciones nos llevan muy lejos, de hecho, nos llevan más allá del arte. Nos permiten vislumbrar el arte de moldear la vida y ser inmortales mientras todavía vivimos."
 
 Fuente en inglés: [Van Gogh Museum](http://vangoghletters.org/vg/letters/let632/letter.html)
 
