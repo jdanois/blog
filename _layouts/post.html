@@ -10,8 +10,51 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Escrito en {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+  /* - - - CONFIGURATION VARIABLES - - - */
+
+  var __semio__params = {
+    graphcommentId: "jdanoisgithub", // make sure the id is yours
+
+    behaviour: {
+      // HIGHLY RECOMMENDED
+      //  uid: "...", // uniq identifer for the comments thread on your page (ex: your page id)
+    },
+
+    // configure your variables here
+
+  }
+
+  /* - - - DON'T EDIT BELOW THIS LINE - - - */
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+  
   {% include disqus.html %}
 </article>
+
+<div style="text-align: center; margin-top: 10px; margin-bottom: 25px;">
+   {% if page.previous %}
+  <a class="button" style="font-size: 18px;" title="Prev post" href="{{  site.baseurl }}{{  page.previous.url }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Anterior</a>
+{% endif %}
+ {% if page.next %}
+  &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 18px;" title="Next post" href="{{  site.baseurl }}{{  page.next.url }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Siguiente</a>
+{% endif %}
+  </div>
+
