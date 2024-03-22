@@ -12,7 +12,20 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer Más</a>
     </article>
   {% endfor %}
+</div>
+<!-- Pagination links -->
+
+<div style="text-align: center; margin-top: 30px; margin-bottom: 25px;">
+  {% if paginator.previous_page %}
+    <a class="button" style="font-size: 18px;" title="Prev page" href="{{ paginator.previous_page_path }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Anterior</a>
+  {% endif %}
+  <span class="page_number ">
+    &nbsp;&nbsp;&nbsp;&nbsp;P&aacute;gina {{ paginator.page }} de {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 18px;" title="Next page" href="{{ paginator.next_page_path }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Siguiente</a>
+  {% endif %}
 </div>
