@@ -9,7 +9,7 @@ tags:
   - Reflexión Bíblica
 readtime: true
 published: true
-date: 2024-03-23T00:00:00.000Z
+date: {}
 ---
 ## No dejes que la tecnología o las redes sociales te consuman o te distraigan.
 
