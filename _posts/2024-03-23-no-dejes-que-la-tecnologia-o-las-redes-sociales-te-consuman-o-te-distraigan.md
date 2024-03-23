@@ -1,0 +1,28 @@
+---
+layout: post
+title: No dejes que la tecnología o las redes sociales te consuman o te distraigan.
+subtitle: Tengamos tiempo de comunión
+cover-img: null
+thumbnail-img: null
+share-img: null
+tags:
+  - Reflexión Bíblica
+readtime: true
+published: true
+date: 2024-03-23T00:00:00.000Z
+---
+## No dejes que la tecnología o las redes sociales te consuman o te distraigan.
+
+> **Lucas 5:16 - 'Pero Jesús se retiraba a lugares solitarios para orar'.**
+
+![img](https://img4.teletype.in/files/3e/a5/3ea54c01-22a7-453a-81f1-57815a4d63e3.png)
+
+Este versículo enfatiza la práctica de Jesús de encontrar soledad para orar, destacando la importancia de buscar la comunión con Dios lejos de las distracciones del mundo. En esta era de conectividad constante y avances tecnológicos, es crucial evitar ser consumido o distraído por el atractivo de la tecnología y las redes sociales. Si bien estas herramientas tienen sus beneficios, también pueden desviar fácilmente nuestra atención de lo que realmente importa: nuestra relación con Dios y la profundidad de nuestra comprensión de Su Palabra.
+
+Recordemos que, así como Jesús a menudo se retiraba a lugares solitarios para comunicarse con el Padre, nosotros también necesitamos momentos de quietud y devoción enfocada. Adopte la disciplina de dedicar tiempo a estudiar, meditar y orar sin las distracciones de pantallas y notificaciones. Al priorizar estas prácticas, nos aseguramos de que nuestro crecimiento espiritual permanezca en primer plano, permitiéndonos involucrarnos con la Palabra de Dios de manera más profunda e íntima. Que cultivemos un equilibrio que nos permita usar la tecnología sabiamente y al mismo tiempo salvaguardar la santidad de nuestro viaje espiritual.
+
+¡Gracias por leerme! **No olvides dejar tus comentarios abajo.**
+
+---
+
+Puedes seguirme en **[Facebook](https://www.facebook.com/danoisyzori)** o escribirme por **[Correo Electrónico](mailto:josedanois@gmail.com)** o **[Telegram](https://t.me/jdanois)**.
