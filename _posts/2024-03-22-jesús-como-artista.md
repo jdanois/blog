@@ -27,6 +27,8 @@ Originalmente publicado en *El Arado Número 6,* diciembre de 1957
 
 ¡Gracias por leerme! **No olvides dejar tus comentarios abajo.**
 
+---
+
 Sígueme en **[Facebook](https://www.facebook.com/danoisyzori)** o escribirme por **[Correo Electrónico](mailto:josedanois@gmail.com)** o **[Telegram](https://t.me/jdanois)**. Recibe las publicaciones en tu correo electronico **[Suscribiendote Aquí](https://follow.it/blog-de-jos-danois?leanpub).**
 
 [^1]: [Cartas de Van Gogh](https://vangoghletters.org/vg/letters.html)
