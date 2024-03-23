@@ -15,4 +15,4 @@ Recordemos que, así como Jesús a menudo se retiraba a lugares solitarios para 
 
 ---
 
-Puedes seguirme en **[Facebook](https://www.facebook.com/danoisyzori)** o escribirme por **[Correo Electrónico](mailto:josedanois@gmail.com)** o **[Telegram](https://t.me/jdanois)**.
+Sígueme en **[Facebook](https://www.facebook.com/danoisyzori)** o escribirme por **[Correo Electrónico](mailto:josedanois@gmail.com)** o **[Telegram](https://t.me/jdanois)**. Recibe las publicaciones en tu correo electronico **[Suscribiendote Aquí](https://follow.it/blog-de-jos-danois?leanpub)**
