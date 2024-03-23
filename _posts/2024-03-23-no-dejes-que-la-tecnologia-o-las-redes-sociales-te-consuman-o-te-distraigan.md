@@ -11,8 +11,6 @@ readtime: true
 published: true
 date: {}
 ---
-## No dejes que la tecnología o las redes sociales te consuman o te distraigan.
-
 > **Lucas 5:16 - 'Pero Jesús se retiraba a lugares solitarios para orar'.**
 
 ![img](https://img4.teletype.in/files/3e/a5/3ea54c01-22a7-453a-81f1-57815a4d63e3.png)
