@@ -5,7 +5,7 @@ published: true
 ---
 ![img](https://img4.teletype.in/files/3e/a5/3ea54c01-22a7-453a-81f1-57815a4d63e3.png)
 
-Este versículo enfatiza la práctica de Jesús de encontrar soledad para orar, destacando la importancia de buscar la comunión con Dios lejos de las distracciones del mundo. En esta era de conectividad constante y avances tecnológicos, es crucial evitar ser consumido o distraído por el atractivo de la tecnología y las redes sociales. Si bien estas herramientas tienen sus beneficios, también pueden desviar fácilmente nuestra atención de lo que realmente importa: nuestra relación con Dios y la profundidad de nuestra comprensión de Su Palabra.
+Lucas 5:16 enfatiza la práctica de Jesús de encontrar soledad para orar, destacando la importancia de buscar la comunión con Dios lejos de las distracciones del mundo. En esta era de conectividad constante y avances tecnológicos, es crucial evitar ser consumido o distraído por el atractivo de la tecnología y las redes sociales. Si bien estas herramientas tienen sus beneficios, también pueden desviar fácilmente nuestra atención de lo que realmente importa: nuestra relación con Dios y la profundidad de nuestra comprensión de Su Palabra.
 
 > **Lucas 5:16 - 'Pero Jesús se retiraba a lugares solitarios para orar'.**
 
