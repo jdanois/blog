@@ -19,6 +19,6 @@ Espero que el contenido sea de tu interes.
 
 No olvides unirte a la Conversación dejando tus comentarios en las publicaciones.
 
-Si deseas recibir las publicaciones en tu corrro electronico puedes **[Suscribirte Aquí](https://follow.it/blog-de-jos-danois?leanpub).**
+Si deseas recibir las publicaciones en tu corrreo electronico puedes **[Suscribirte Aquí](https://follow.it/blog-de-jos-danois?leanpub).**
 
 Gracias por tu visita.
