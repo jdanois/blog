@@ -24,6 +24,6 @@ No olvides unirte a la Conversación dejando tus comentarios en las publicacione
 
 Si deseas recibir las publicaciones en tu corrreo electrónico puedes **[Suscribirte Aquí](https://follow.it/blog-de-jos-danois?leanpub).**
 
-Tambien puedes ver mi boletín bajo [Pastor Danois](https://pastordanois.substack.com)
+Tambien puedes ver mi boletín bajo [Pastor Danois](https://pastordanois.substack.com).
 
 Gracias por tu visita.
