@@ -4,6 +4,7 @@ title: Acerca de
 permalink: /acerca-de/
 published: true
 ---
+![profile-pic-21.png](https://i.postimg.cc/s2wrGwqD/profile-pic-21.png)
 
 Hola, me llamo José Danois. Soy ministro del Evangelio, Esposo, Padre de Familia y Músico.
 
