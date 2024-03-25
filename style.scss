@@ -19,14 +19,14 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 Verdana, sans-serif;
-  color: $darkGray;
+  font: 17px/1.5 Verdana, sans-serif;
+  color: #444;
 }
 
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 20px;
   width: 100%;
 }
 
@@ -256,7 +256,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #222;
     font-size: 22px;
     font-style: italic;
   }
