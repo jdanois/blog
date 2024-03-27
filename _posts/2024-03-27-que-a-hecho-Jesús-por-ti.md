@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Que a hecho Jesús por ti
+published: false
+---
 >Vuelve a tu casa y cuenta todo lo que Dios ha hecho por ti. Así que el hombre se fue y proclamó por todo el pueblo lo mucho que Jesús había hecho por él Lucas 8:39
 
 En Lucas 8:26-39 se nos cuenta la historia de un hombre endemoniado. Su condición era tal andaba desnudo y no vivía en una casa, sino en los sepulcros. Cada vez que los demonios lo atormentaban le intentaban sujetar los pies y las manos con cadenas para controlarlo, pero rompía las cadenas y el demonio lo arrastraba a lugares solitarios.
