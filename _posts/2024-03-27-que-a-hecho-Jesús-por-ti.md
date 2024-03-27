@@ -3,6 +3,8 @@ layout: post
 title: Que a hecho Jesús por ti
 published: true
 ---
+![cross-106416-1280.jpg](https://i.postimg.cc/qqnckhdN/cross-106416-1280.jpg)
+
 >Vuelve a tu casa y cuenta todo lo que Dios ha hecho por ti. Así que el hombre se fue y proclamó por todo el pueblo lo mucho que Jesús había hecho por él Lucas 8:39
 
 En Lucas 8:26-39 se nos cuenta la historia de un hombre endemoniado. Su condición era tal que andaba desnudo y no vivía en una casa, sino en los sepulcros. Cada vez que los demonios lo atormentaban, intentaban sujetar sus pies y manos con cadenas, pero el las rompía y el demonio lo arrastraba a lugares solitarios.
@@ -14,8 +16,6 @@ Un día llega Jesús llego a la región de Gadara donde habitaba el hombre y tod
 Jesús dio la orden para que todo poder de las tienieblas saliera de él y desde ese momento en adelante fue libre de tan terrible tormento.
 
 La Escritura nos dice que luego de su liberación, los ciudadanos llegarón a donde estaba Jesús y encontraron al hombre que había sido liberado **sentado a sus pies**. Estaba vestido y en su sano juicio y los que habían presenciado estas cosas contaron a la gente cómo el endemoniado había sido sanado. 
-
-![cross-106416-1280.jpg](https://i.postimg.cc/qqnckhdN/cross-106416-1280.jpg)
 
 Ahora el hombre libre de los demonios le rogaba a Jesús que le permitiera acompañarlo, pero Jesús lo despidió y le dijo:
 
