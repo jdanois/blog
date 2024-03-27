@@ -21,7 +21,7 @@ Ahora el hombre que había sido liberado le rogaba a Jesús que le permitiera ac
 
 Vuelve a tu casa y cuenta todo lo que Dios ha hecho por ti. Así que el hombre se fue **y proclamó por todo el pueblo lo mucho que Jesús había hecho por él.**
 
-En cada uno nosotros, aquellos que hemos creido en Cristo Jesús como nuestro Salvador, El ha hecho algo maravilloso. Nada de lo que hemos recibido de El puede llamarse pequeño o insignificante, no hay testimonios pequeños cuando hemos recibido su gracia, amo y perdon. Al igual que el gadareno nos corresponde tambien compartir cuan grandes cosas Dios ha hecho con nosotros.
+En cada uno nosotros, Cristo Jesús nuestro Salvador, ha hecho algo maravilloso. Nada de lo que hemos recibido de El puede llamarse pequeño o insignificante, no hay testimonios pequeños cuando hemos recibido su gracia, amor y perdon. Al igual que el gadareno nos corresponde compartir cuan grandes cosas Dios ha hecho con nosotros.
 
 El hombre que había estado cautivo por el enemigo fue agradecido y obedecio el mandato de Jesús de contarle a los suyos lo que Dios había hecho con el.
 
