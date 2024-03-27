@@ -11,7 +11,7 @@ En Lucas 8:26-39 se nos cuenta la historia de un hombre endemoniado. Su condici�
 
 Su condición era triste y lamentable, vivia controlado por el enemigo. 
 
-Un día llega Jesús llego a la región de Gadara donde habitaba el hombre y todo cambio para el.
+Un día llega Jesús a la región de Gadara donde habitaba el hombre y todo cambio para el.
 
 Jesús dio una orden para que todo poder de las tienieblas saliera de él y desde ese momento en adelante fue libre de tan terrible tormento.
 
